@@ -402,6 +402,10 @@ p {
   background: rgba(247, 120, 88, 0.16);
   color: var(--coral-peach-dark);
 }
+.usp-icon-mustard {
+  background: rgba(229, 154, 26, 0.16);
+  color: var(--mustard);
+}
 .usp-card h3 {
   font-size: 1.15rem;
   margin-bottom: 10px;
